@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "chunli", "direction" : "right",
+        "animations" : [
+            { "name": "idle", "file": "images/chunli/idle-53x96x4.png", "width" : "53", "height": "94", "frames": "4", "mood": "idle" },
+            { "name": "walking", "file": "images/chunli/walking-58x96x8", "width" : "58", "height": "96", "frames": "8", "mood": "idle" },
+            { "name": "forwardjump", "file": "images/chunli/forwardjump-68x102x8.png", "width" : "68", "height": "102", "frames": "8", "mood": "attack" },
+            { "name": "jumphkick", "file": "images/chunli/jumphkick-66x100x6.png", "width" : "66", "height": "100", "frames": "6", "mood": "attack" },
+            { "name": "mpunch", "file": "images/chunli/lpunch-65x96x3.png", "width" : "65", "height": "96", "frames": "3", "mood": "attack" },
+            { "name": "lpunch", "file": "images/chunli/mpunch-90x96x3.png", "width" : "90", "height": "96", "frames": "3", "mood": "attack" },          
+            { "name": "hpunch", "file": "images/chunli/hpunch-90x96x3.png", "width" : "90", "height": "96", "frames": "3", "mood": "attack" },
+            { "name": "victory", "file": "images/chunli/victory-52x140x5.png", "width" : "52", "height": "140", "frames": "5", "mood": "win" },                        
+            { "name": "defeat", "file": "images/chunli/defeat-80x96x4.png", "width" : "80", "height": "96", "frames": "4", "mood": "lose" }                        
+        ]
+    },
+    {
+        "name" : "ryu", "direction" : "left",
+        "animations" : [
+            { "name": "idle", "file": "images/ryu/idle-53x96x4.png", "width" : "53", "height": "94", "frames": "4", "mood": "idle" },
+            { "name": "walking", "file": "images/ryu/walking-56x96x5", "width" : "56", "height": "96", "frames": "5", "mood": "idle" },
+            { "name": "forwardjump", "file": "images/ryu/forwardjump-748x102x7.png", "width" : "74", "height": "102", "frames": "7", "mood": "attack" },
+            { "name": "jumphkick", "file": "images/ryu/jumphkick-56x96x3.png", "width" : "56", "height": "96", "frames": "3", "mood": "attack" },
+            { "name": "mpunch", "file": "images/ryu/mpunch-62x96x3.png", "width" : "62", "height": "96", "frames": "3", "mood": "attack" },          
+            { "name": "lpunch", "file": "images/ryu/lpunch-62x96x3.png", "width" : "62", "height": "96", "frames": "3", "mood": "attack" },          
+            { "name": "hpunch", "file": "images/ryu/hpunch-75x96x5.png", "width" : "75", "height": "96", "frames": "5", "mood": "attack" },            
+            { "name": "victory", "file": "images/ryu/victory-52x110x5.png", "width" : "52", "height": "110", "frames": "5", "mood": "win" },
+            { "name": "defeat", "file": "images/ryu/defeat-75x96.4.png", "width" : "75", "height": "96", "frames": "4", "mood": "lose" }                                  
+        ]
+    }
+]
