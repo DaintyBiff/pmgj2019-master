@@ -5,6 +5,7 @@
 Simple tug-of-war game, built with Phaser.
 
 ## Setup
+poop
 
 ### 1. Clone this repo
 
